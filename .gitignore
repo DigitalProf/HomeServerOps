@@ -1,4 +1,4 @@
 *.key
 key.txt
 *.env
-!*.enc.yaml
+remote set-url origin git@github.com:DigitalProf/HomeServerOps.git.enc.yaml
